@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+Femshop2 = "c5e326e7-9e2a-46bd-bc5c-a950ccb14015"
